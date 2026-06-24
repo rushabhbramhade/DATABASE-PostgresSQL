@@ -1,0 +1,2 @@
+-- BEGIN transaction examples
+BEGIN;

@@ -1,0 +1,2 @@
+-- BETWEEN examples
+SELECT * FROM employees WHERE salary BETWEEN 50000 AND 100000;

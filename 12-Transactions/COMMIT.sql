@@ -1,0 +1,2 @@
+-- COMMIT transaction examples
+COMMIT;

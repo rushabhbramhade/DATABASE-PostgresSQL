@@ -1,0 +1,11 @@
+# PostgreSQL
+*.sqlc
+*.sqlcipher
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*~
