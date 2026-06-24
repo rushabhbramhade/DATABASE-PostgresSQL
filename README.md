@@ -7,10 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/rushabhbramhade/DATABASE-PostgresSQL?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/rushabhbramhade/DATABASE-PostgresSQL?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/rushabhbramhade/DATABASE-PostgresSQL?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rushabhbramhade/DATABASE-PostgresSQL?style=social)
+
 
 </div>
 
