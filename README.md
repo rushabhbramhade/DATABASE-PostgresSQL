@@ -267,22 +267,22 @@ Each folder contains a `schema.sql` you can run directly, plus a `README.md` wal
 A simple way to track your own progress through the roadmap:
 
 - [x] SQL Fundamentals
-- [ ] Database Design
-- [ ] DDL Commands
-- [ ] DML Commands
-- [ ] Filtering & Sorting
-- [ ] Aggregations
-- [ ] Joins
-- [ ] Subqueries
-- [ ] Normalization
-- [ ] Indexing
-- [ ] Constraints
-- [ ] Transactions
-- [ ] Views & CTEs
-- [ ] PostgreSQL Advanced Features
-- [ ] Database Optimization
-- [ ] Real-World Schemas
-- [ ] Interview Preparation
+- [x] Database Design
+- [x] DDL Commands
+- [x] DML Commands
+- [x] Filtering & Sorting
+- [x] Aggregations
+- [x] Joins
+- [x] Subqueries
+- [x] Normalization
+- [x] Indexing
+- [x] Constraints
+- [x] Transactions
+- [x] Views & CTEs
+- [x] PostgreSQL Advanced Features
+- [x] Database Optimization
+- [x] Real-World Schemas
+- [x] Interview Preparation
 
 ## 🤝 Contributing
 
